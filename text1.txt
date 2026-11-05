@@ -1,0 +1,20 @@
+       G Y Y   up face
+       G W W
+       G Y Y
+
+O O O     left
+G G Y
+G G W
+       Y B B  front
+       R R R
+       O O O
+              R O R  right
+              W B B
+              Y B B
+                     G G W  back
+                     R O R
+                     R O R
+
+       B B B    down
+       W Y W
+       W Y W
