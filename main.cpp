@@ -24,7 +24,7 @@ int main(){
     string line;
     ifstream myfile;
     // cout<<"File\n";
-    myfile.open("C:\\Users\\KIIT0001\\Desktop\\Project\\Rubik's Cube\\text1.txt",ios::in);
+    myfile.open("file_path",ios::in);
     if(!myfile.is_open())
         throw runtime_error("Problem in opening file");
     // cout<<"File open\n";
@@ -276,7 +276,7 @@ int main(){
 
 
     // IDAstar with pattern database
-    string fileName="C:\\Users\\KIIT0001\\Desktop\\Project\\Rubik's Cube\\Database\\CornerDatabase1.txt";
+    string fileName="filepath\\CornerDatabase1.txt";
     // CornerDBMaker dbMaker(fileName,0x99);
     // dbMaker.bfsAndstore();
 
